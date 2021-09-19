@@ -1,2 +1,2 @@
 # Cmd-
-![](cmd dir.PNG)
+![](cmd/dir.PNG)
